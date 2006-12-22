@@ -1,11 +1,12 @@
 #labels Featured,Phase-Support,Phase-Deploy
 = Tatapoum 4.02 VST User's Guide =
-
+[http://www.asseca.com/darkstar/ttp-ug/dsgn/images/ttp40a.PNG]
 == Online User's Guide ==
 
 *The current version of the user's guide is hosted here:*
 
 http://www.asseca.com/darkstar/ttp-ug/
+
 
 
 
